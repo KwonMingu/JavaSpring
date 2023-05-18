@@ -9,4 +9,36 @@
         VALUES
         ( #{title}, #{ctnt}, #{writer} )
     </insert>
+
+    <select id="selBoardAll" resultType="BoardEntity">
+        SELECT
+            iboard, title, writer
+            , created_at createdAt, updated_at updatedAt
+        FROM t_board
+    </select>
+
+    <select id="selBoardById" resultType ="BoardEntity">
+        select
+            iboard, title, writer
+            , created_at createdAt, updated_at updatedAt
+        from t_board
+        where iboard=#{iboard};
+
+
+    </select>
+
+    <update id="upBoard">
+        UPDATE t_board
+        SET title =#{title}
+        , ctnt = #{ctnt}
+        , writer = #{writer}
+        , updated_at = current_timestamp()
+        WHERE iboard = #{iboard}
+    </update>
+
+    <delete id="delBoard">
+        delete from t_board
+        where iboard = #{iboard}
+    </delete>
+
 </mapper>
