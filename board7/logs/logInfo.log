@@ -1,0 +1,51 @@
+[2023-05-22 16:08:36.083 INFO  restartedMain] [com.green.board7.Board7Application] Starting Board7Application using Java 17.0.7 with PID 9888 (D:\spring\board7\target\classes started by Administrator in D:\spring\board7)
+[2023-05-22 16:08:36.085 INFO  restartedMain] [com.green.board7.Board7Application] No active profile set, falling back to 1 default profile: "default"
+[2023-05-22 16:08:36.112 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-05-22 16:08:36.112 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-05-22 16:08:36.764 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8080 (http)
+[2023-05-22 16:08:36.769 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[2023-05-22 16:08:36.770 INFO  restartedMain] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2023-05-22 16:08:36.770 INFO  restartedMain] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.8]
+[2023-05-22 16:08:36.805 INFO  restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2023-05-22 16:08:36.806 INFO  restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 693 ms
+[2023-05-22 16:08:37.207 INFO  restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[2023-05-22 16:08:37.218 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[2023-05-22 16:08:37.229 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8080 (http) with context path ''
+[2023-05-22 16:08:37.235 INFO  restartedMain] [com.green.board7.Board7Application] Started Board7Application in 1.475 seconds (process running for 1.818)
+[2023-05-22 16:39:12.601 INFO  restartedMain] [com.green.board7.Board7Application] Starting Board7Application using Java 17.0.7 with PID 2748 (D:\spring\board7\target\classes started by Administrator in D:\spring\board7)
+[2023-05-22 16:39:12.603 INFO  restartedMain] [com.green.board7.Board7Application] No active profile set, falling back to 1 default profile: "default"
+[2023-05-22 16:39:12.631 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-05-22 16:39:12.631 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-05-22 16:39:13.723 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8080 (http)
+[2023-05-22 16:39:13.729 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[2023-05-22 16:39:13.729 INFO  restartedMain] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2023-05-22 16:39:13.730 INFO  restartedMain] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.8]
+[2023-05-22 16:39:13.767 INFO  restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2023-05-22 16:39:13.768 INFO  restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 1136 ms
+[2023-05-22 16:39:14.168 INFO  restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[2023-05-22 16:39:14.179 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[2023-05-22 16:39:14.192 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8080 (http) with context path ''
+[2023-05-22 16:39:14.199 INFO  restartedMain] [com.green.board7.Board7Application] Started Board7Application in 1.974 seconds (process running for 2.388)
+[2023-05-22 16:50:24.610 INFO  restartedMain] [com.green.board7.Board7Application] Starting Board7Application using Java 17.0.7 with PID 5388 (D:\spring\board7\target\classes started by Administrator in D:\spring\board7)
+[2023-05-22 16:50:24.611 INFO  restartedMain] [com.green.board7.Board7Application] No active profile set, falling back to 1 default profile: "default"
+[2023-05-22 16:50:24.637 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-05-22 16:50:24.637 INFO  restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-05-22 16:50:25.297 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8080 (http)
+[2023-05-22 16:50:25.303 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[2023-05-22 16:50:25.303 INFO  restartedMain] [org.apache.catalina.core.StandardService] Starting service [Tomcat]
+[2023-05-22 16:50:25.304 INFO  restartedMain] [org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.8]
+[2023-05-22 16:50:25.338 INFO  restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[2023-05-22 16:50:25.338 INFO  restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 701 ms
+[2023-05-22 16:50:25.738 INFO  restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[2023-05-22 16:50:25.749 INFO  restartedMain] [org.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[2023-05-22 16:50:25.760 INFO  restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8080 (http) with context path ''
+[2023-05-22 16:50:25.767 INFO  restartedMain] [com.green.board7.Board7Application] Started Board7Application in 1.475 seconds (process running for 1.825)
+[2023-05-22 16:50:35.978 INFO  http-nio-8080-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2023-05-22 16:50:35.978 INFO  http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[2023-05-22 16:50:35.979 INFO  http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+[2023-05-22 16:50:36.283 INFO  http-nio-8080-exec-8] [org.springdoc.api.AbstractOpenApiResource] Init duration for springdoc-openapi is: 118 ms
+[2023-05-22 16:50:51.056 WARN  http-nio-8080-exec-10] [com.green.board7.BoardController] 경고, 글 등록이 됩니다.
+[2023-05-22 16:50:51.067 INFO  http-nio-8080-exec-10] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[2023-05-22 16:50:51.104 INFO  http-nio-8080-exec-10] [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Added connection org.mariadb.jdbc.Connection@53355c7c
+[2023-05-22 16:50:51.105 INFO  http-nio-8080-exec-10] [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[2023-05-22 16:50:52.788 WARN  http-nio-8080-exec-3] [com.green.board7.BoardController] 경고, 글 등록이 됩니다.
